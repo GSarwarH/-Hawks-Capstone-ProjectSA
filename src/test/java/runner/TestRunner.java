@@ -12,7 +12,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		features = "classpath:features",
 		glue = "stepDefinitions",
-		tags = "@UnitTest",
+		tags = "@Test",
 				 
 		dryRun = false, 
 		monochrome = true, 

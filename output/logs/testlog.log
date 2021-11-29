@@ -80,3 +80,14 @@
 2021-11-29 15:47:51,054 - logger_File -INFO - User clicked on Euro
 2021-11-29 15:47:51,147 - logger_File -INFO - Euro Sign displayed
 2021-11-29 15:47:51,338 - logger_File -INFO - Scenario User verify currency values change PASSED
+2021-11-29 16:49:04,354 - logger_File -INFO - Scenario User verify currency values change Started
+2021-11-29 16:49:24,489 - logger_File -INFO - User is on retail page
+2021-11-29 16:49:25,935 - logger_File -INFO - user clicked on Currency
+2021-11-29 16:49:29,504 - logger_File -INFO - User clicked on Euro
+2021-11-29 16:49:29,550 - logger_File -INFO - Euro Sign displayed
+2021-11-29 16:49:29,687 - logger_File -INFO - Scenario User verify currency values change PASSED
+2021-11-29 16:52:25,705 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-11-29 16:52:49,444 - logger_File -INFO - User is on retail page
+2021-11-29 16:52:50,731 - logger_File -INFO - User clicked on Desktop tab
+2021-11-29 16:52:59,114 - logger_File -INFO - User clicked on show all desktop
+2021-11-29 16:52:59,365 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
