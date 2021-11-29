@@ -74,3 +74,9 @@
 2021-11-29 14:49:56,746 [main] INFO logger_File - User clicked on Desktop tab
 2021-11-29 14:50:06,520 [main] INFO logger_File - User clicked on show all desktop
 2021-11-29 14:50:06,751 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-29 15:47:25,472 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-29 15:47:43,075 [main] INFO logger_File - User is on retail page
+2021-11-29 15:47:44,373 [main] INFO logger_File - user clicked on Currency
+2021-11-29 15:47:51,054 [main] INFO logger_File - User clicked on Euro
+2021-11-29 15:47:51,147 [main] INFO logger_File - Euro Sign displayed
+2021-11-29 15:47:51,338 [main] INFO logger_File - Scenario User verify currency values change PASSED
