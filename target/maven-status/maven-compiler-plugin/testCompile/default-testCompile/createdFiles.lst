@@ -1,0 +1,5 @@
+stepDefinitions\Initializer.class
+stepDefinitions\desktopStepDef.class
+stepDefinitions\RetailSetpDef.class
+stepDefinitions\HomePageStepDef.class
+runner\TestRunner.class

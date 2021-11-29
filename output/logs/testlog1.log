@@ -1,0 +1,76 @@
+2021-11-15 12:14:19,004 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-15 12:14:27,547 [main] INFO logger_File - User is on retail page
+2021-11-15 12:14:29,228 [main] INFO logger_File - Scenario User verify currency values change UNDEFINED
+2021-11-15 12:14:29,241 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-11-15 12:14:34,045 [main] INFO logger_File - User is on retail page
+2021-11-15 12:14:34,167 [main] INFO logger_File - Scenario User empty Shopping cart message displays UNDEFINED
+2021-11-15 12:44:34,248 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-15 12:44:41,785 [main] INFO logger_File - User is on retail page
+2021-11-15 12:44:41,838 [main] INFO logger_File - user clicked on Currency
+2021-11-15 12:44:44,167 [main] INFO logger_File - User clicked on Euro
+2021-11-15 12:44:44,208 [main] INFO logger_File - Euro Sign displayed
+2021-11-15 12:44:44,353 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2021-11-15 13:13:21,900 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-15 13:13:30,892 [main] INFO logger_File - User is on retail page
+2021-11-15 13:13:30,940 [main] INFO logger_File - User clicked on Desktop tab
+2021-11-15 13:13:36,330 [main] INFO logger_File - User clicked on show all desktop
+2021-11-15 13:13:42,721 [main] INFO logger_File - User clicked on Canon EOS 5D 
+2021-11-15 13:13:42,779 [main] INFO logger_File - User clicked on write a review link 
+2021-11-15 13:13:43,002 [main] INFO logger_File - User entered required information
+2021-11-15 13:13:43,039 [main] INFO logger_File - User Clicked on continue butoon
+2021-11-15 13:13:43,649 [main] INFO logger_File - Succes Message is displayed
+2021-11-15 13:13:47,892 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-15 14:02:11,043 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 14:02:23,121 [main] INFO logger_File - User is on retail page
+2021-11-15 14:02:23,171 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-15 14:02:39,068 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 14:02:39,084 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-11-15 14:02:44,524 [main] INFO logger_File - User is on retail page
+2021-11-15 14:02:44,569 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-15 14:02:54,873 [main] INFO logger_File - User clicked on mac pro
+2021-11-15 14:02:54,913 [main] INFO logger_File - Price tage is present
+2021-11-15 14:02:59,066 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2021-11-15 14:04:36,110 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 14:04:45,514 [main] INFO logger_File - User is on retail page
+2021-11-15 14:04:45,577 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-15 14:05:04,453 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 14:11:43,768 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 14:11:51,508 [main] INFO logger_File - User is on retail page
+2021-11-15 14:11:51,598 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-15 14:12:00,076 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 14:15:35,258 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 14:15:45,018 [main] INFO logger_File - User is on retail page
+2021-11-15 14:15:45,072 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-15 14:15:54,321 [main] INFO logger_File - User clicked on add to cart 
+2021-11-15 14:15:54,406 [main] INFO logger_File - Success message is displayed
+2021-11-15 14:15:57,497 [main] INFO logger_File - One item dispalyed
+2021-11-15 14:15:57,590 [main] INFO logger_File - User clicked on Cart option
+2021-11-15 14:15:57,664 [main] INFO logger_File - User removed item from the cart
+2021-11-15 14:16:02,312 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2021-11-15 14:23:49,731 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-15 14:24:03,676 [main] INFO logger_File - User is on retail page
+2021-11-15 14:24:03,730 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-15 14:24:09,237 [main] INFO logger_File - User clicked on Macbook comparison button
+2021-11-15 14:24:09,295 [main] INFO logger_File - User clicked on macbook air comparison button
+2021-11-15 14:24:14,853 [main] INFO logger_File - Scenario Product Comparison PASSED
+2021-11-15 14:27:48,110 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-11-15 14:27:56,493 [main] INFO logger_File - User is on retail page
+2021-11-15 14:27:56,585 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-15 14:27:59,831 [main] INFO logger_File - Verification message dispalyed
+2021-11-15 14:27:59,996 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2021-11-15 14:34:35,707 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-11-15 14:34:44,360 [main] INFO logger_File - User is on retail page
+2021-11-15 14:34:44,449 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-15 14:34:53,472 [main] INFO logger_File - User clicked on mac pro
+2021-11-15 14:34:53,537 [main] INFO logger_File - Price tage is present
+2021-11-15 14:34:57,731 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2021-11-15 15:28:04,651 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-15 15:28:15,704 [main] INFO logger_File - User is on retail page
+2021-11-15 15:28:16,485 [main] INFO logger_File - User clicked on Desktop tab
+2021-11-15 15:28:23,379 [main] INFO logger_File - User clicked on show all desktop
+2021-11-15 15:28:23,568 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-29 14:49:31,491 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-29 14:49:55,445 [main] INFO logger_File - User is on retail page
+2021-11-29 14:49:56,746 [main] INFO logger_File - User clicked on Desktop tab
+2021-11-29 14:50:06,520 [main] INFO logger_File - User clicked on show all desktop
+2021-11-29 14:50:06,751 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
